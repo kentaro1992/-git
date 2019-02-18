@@ -1,1 +1,2 @@
 hello git!
+Gitの練習をしています
